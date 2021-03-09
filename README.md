@@ -1,4 +1,4 @@
-<img src="images/customer.jpg"/>
+<img src="images/customer-2.jpg" width=650px height=400px/>
 <br/>
 
 # The purpose of the competition
